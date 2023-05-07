@@ -1,0 +1,2 @@
+# TimetableGenerator
+ timetable generator project
